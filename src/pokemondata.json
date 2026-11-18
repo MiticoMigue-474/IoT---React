@@ -1,0 +1,284 @@
+[
+  {
+    "cardTitleText": "Bulbasaur",
+    "descriptionText": "The seed Pokémon",
+    "linkButton": "https://www.pokemon.com/el/pokedex/bulbasaur",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/001.png"
+  },
+  {
+    "cardTitleText": "Ivysaur",
+    "descriptionText": "Plant-powered buddy",
+    "linkButton": "https://www.pokemon.com/el/pokedex/ivysaur",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/002.png"
+  },
+  {
+    "cardTitleText": "Venusaur",
+    "descriptionText": "Photosynthesis master",
+    "linkButton": "https://www.pokemon.com/el/pokedex/venusaur",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/003.png"
+  },
+  {
+    "cardTitleText": "Charmander",
+    "descriptionText": "Little fire tail",
+    "linkButton": "https://www.pokemon.com/el/pokedex/charmander",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/004.png"
+  },
+  {
+    "cardTitleText": "Charmeleon",
+    "descriptionText": "Spicy lizard",
+    "linkButton": "https://www.pokemon.com/el/pokedex/charmeleon",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/005.png"
+  },
+  {
+    "cardTitleText": "Charizard",
+    "descriptionText": "Angry fire dragon",
+    "linkButton": "https://www.pokemon.com/el/pokedex/charizard",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/006.png"
+  },
+  {
+    "cardTitleText": "Squirtle",
+    "descriptionText": "Baby turtle soldier",
+    "linkButton": "https://www.pokemon.com/el/pokedex/squirtle",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/007.png"
+  },
+  {
+    "cardTitleText": "Wartortle",
+    "descriptionText": "Fluffy-tailed fighter",
+    "linkButton": "https://www.pokemon.com/el/pokedex/wartortle",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/008.png"
+  },
+  {
+    "cardTitleText": "Blastoise",
+    "descriptionText": "Water cannon tank",
+    "linkButton": "https://www.pokemon.com/el/pokedex/blastoise",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/009.png"
+  },
+  {
+    "cardTitleText": "Caterpie",
+    "descriptionText": "Soft green worm",
+    "linkButton": "https://www.pokemon.com/el/pokedex/caterpie",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/010.png"
+  },
+  {
+    "cardTitleText": "Metapod",
+    "descriptionText": "Hardest of bois",
+    "linkButton": "https://www.pokemon.com/el/pokedex/metapod",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/011.png"
+  },
+  {
+    "cardTitleText": "Butterfree",
+    "descriptionText": "Elegant powder wings",
+    "linkButton": "https://www.pokemon.com/el/pokedex/butterfree",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/012.png"
+  },
+  {
+    "cardTitleText": "Weedle",
+    "descriptionText": "Tiny stinging worm",
+    "linkButton": "https://www.pokemon.com/el/pokedex/weedle",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/013.png"
+  },
+  {
+    "cardTitleText": "Kakuna",
+    "descriptionText": "Cocoon of danger",
+    "linkButton": "https://www.pokemon.com/el/pokedex/kakuna",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/014.png"
+  },
+  {
+    "cardTitleText": "Beedrill",
+    "descriptionText": "Angry bee squad",
+    "linkButton": "https://www.pokemon.com/el/pokedex/beedrill",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/015.png"
+  },
+  {
+    "cardTitleText": "Pidgey",
+    "descriptionText": "Birb of peace",
+    "linkButton": "https://www.pokemon.com/el/pokedex/pidgey",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/016.png"
+  },
+  {
+    "cardTitleText": "Pidgeotto",
+    "descriptionText": "Fast flying feather",
+    "linkButton": "https://www.pokemon.com/el/pokedex/pidgeotto",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/017.png"
+  },
+  {
+    "cardTitleText": "Pidgeot",
+    "descriptionText": "Wind slicing wings",
+    "linkButton": "https://www.pokemon.com/el/pokedex/pidgeot",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/018.png"
+  },
+  {
+    "cardTitleText": "Rattata",
+    "descriptionText": "Street mouse fighter",
+    "linkButton": "https://www.pokemon.com/el/pokedex/rattata",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/019.png"
+  },
+  {
+    "cardTitleText": "Raticate",
+    "descriptionText": "Big teeth menace",
+    "linkButton": "https://www.pokemon.com/el/pokedex/raticate",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/020.png"
+  },
+  {
+    "cardTitleText": "Spearow",
+    "descriptionText": "Small angry bird",
+    "linkButton": "https://www.pokemon.com/el/pokedex/spearow",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/021.png"
+  },
+  {
+    "cardTitleText": "Fearow",
+    "descriptionText": "Sniper beak",
+    "linkButton": "https://www.pokemon.com/el/pokedex/fearow",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/022.png"
+  },
+  {
+    "cardTitleText": "Ekans",
+    "descriptionText": "Snek but cooler",
+    "linkButton": "https://www.pokemon.com/el/pokedex/ekans",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/023.png"
+  },
+  {
+    "cardTitleText": "Arbok",
+    "descriptionText": "Scary cobra boy",
+    "linkButton": "https://www.pokemon.com/el/pokedex/arbok",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/024.png"
+  },
+  {
+    "cardTitleText": "Pikachu",
+    "descriptionText": "Electrician/Pet",
+    "linkButton": "https://www.pokemon.com/el/pokedex/pikachu",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/025.png"
+  },
+  {
+    "cardTitleText": "Raichu",
+    "descriptionText": "Charged-up buddy",
+    "linkButton": "https://www.pokemon.com/el/pokedex/raichu",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/026.png"
+  },
+  {
+    "cardTitleText": "Sandshrew",
+    "descriptionText": "Sand mouse",
+    "linkButton": "https://www.pokemon.com/el/pokedex/sandshrew",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/027.png"
+  },
+  {
+    "cardTitleText": "Sandslash",
+    "descriptionText": "Spiky digger",
+    "linkButton": "https://www.pokemon.com/el/pokedex/sandslash",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/028.png"
+  },
+  {
+    "cardTitleText": "Nidoran♀",
+    "descriptionText": "Poison princess",
+    "linkButton": "https://www.pokemon.com/el/pokedex/nidoran-female",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/029.png"
+  },
+  {
+    "cardTitleText": "Nidorina",
+    "descriptionText": "Mother protector",
+    "linkButton": "https://www.pokemon.com/el/pokedex/nidorina",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/030.png"
+  },
+  {
+    "cardTitleText": "Nidoqueen",
+    "descriptionText": "Royal powerhouse",
+    "linkButton": "https://www.pokemon.com/el/pokedex/nidoqueen",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/031.png"
+  },
+  {
+    "cardTitleText": "Nidoran♂",
+    "descriptionText": "Spiky prince",
+    "linkButton": "https://www.pokemon.com/el/pokedex/nidoran-male",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/032.png"
+  },
+  {
+    "cardTitleText": "Nidorino",
+    "descriptionText": "Horned fighter",
+    "linkButton": "https://www.pokemon.com/el/pokedex/nidorino",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/033.png"
+  },
+  {
+    "cardTitleText": "Nidoking",
+    "descriptionText": "The drill king",
+    "linkButton": "https://www.pokemon.com/el/pokedex/nidoking",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/034.png"
+  },
+  {
+    "cardTitleText": "Clefairy",
+    "descriptionText": "Moonlight dancer",
+    "linkButton": "https://www.pokemon.com/el/pokedex/clefairy",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/035.png"
+  },
+  {
+    "cardTitleText": "Clefable",
+    "descriptionText": "Starry guardian",
+    "linkButton": "https://www.pokemon.com/el/pokedex/clefable",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/036.png"
+  },
+  {
+    "cardTitleText": "Vulpix",
+    "descriptionText": "Cute fire fox",
+    "linkButton": "https://www.pokemon.com/el/pokedex/vulpix",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/037.png"
+  },
+  {
+    "cardTitleText": "Ninetales",
+    "descriptionText": "Mystic fox spirit",
+    "linkButton": "https://www.pokemon.com/el/pokedex/ninetales",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/038.png"
+  },
+  {
+    "cardTitleText": "Jigglypuff",
+    "descriptionText": "Sleepy singer",
+    "linkButton": "https://www.pokemon.com/el/pokedex/jigglypuff",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/039.png"
+  },
+  {
+    "cardTitleText": "Wigglytuff",
+    "descriptionText": "Balloon warrior",
+    "linkButton": "https://www.pokemon.com/el/pokedex/wigglytuff",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/040.png"
+  },
+  {
+    "cardTitleText": "Zubat",
+    "descriptionText": "Cave flapper",
+    "linkButton": "https://www.pokemon.com/el/pokedex/zubat",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/041.png"
+  },
+  {
+    "cardTitleText": "Golbat",
+    "descriptionText": "Screaming vampire",
+    "linkButton": "https://www.pokemon.com/el/pokedex/golbat",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/042.png"
+  },
+  {
+    "cardTitleText": "Oddish",
+    "descriptionText": "Walking plant",
+    "linkButton": "https://www.pokemon.com/el/pokedex/oddish",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/043.png"
+  },
+  {
+    "cardTitleText": "Gloom",
+    "descriptionText": "Smelly buddy",
+    "linkButton": "https://www.pokemon.com/el/pokedex/gloom",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/044.png"
+  },
+  {
+    "cardTitleText": "Vileplume",
+    "descriptionText": "Toxic flower queen",
+    "linkButton": "https://www.pokemon.com/el/pokedex/vileplume",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/045.png"
+  },
+  {
+    "cardTitleText": "Paras",
+    "descriptionText": "Shroom bug",
+    "linkButton": "https://www.pokemon.com/el/pokedex/paras",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/046.png"
+  },
+  {
+    "cardTitleText": "Parasect",
+    "descriptionText": "Zombie mushroom",
+    "linkButton": "https://www.pokemon.com/el/pokedex/parasect",
+    "imageURL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/047.png"
+  }
+]

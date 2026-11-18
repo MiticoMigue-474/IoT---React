@@ -12,7 +12,7 @@ const Card = ({titulo, descripcion, linkBoton, linkImg}: Props) => {
             <div className="card-body">
                 <h5 className="card-title">{titulo}</h5>
                 <p className="card-text">{descripcion}</p>
-                <a href="#" className="btn btn-primary">{linkBoton}</a>
+                <a href={linkBoton} className="btn btn-primary">Capturar</a>
             </div>
         </div>
     )

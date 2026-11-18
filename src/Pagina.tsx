@@ -3,6 +3,7 @@ import Alerta from "./Alerta";
 import Boton from "./Boton";
 import {useState} from "react";
 import Card from "./Card";
+import pokemonData from "./pokemondata.json";
 
 function Pagina(){
     let Cities = [
@@ -55,13 +56,16 @@ function Pagina(){
                 </Alerta>}
             </div>
             <div className="row">
-                <div className="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                {pokemonData.map((pokemon, index)=>(
+                    <div className="col-lg-3 col-md-4 col-sm-6 col-xs-12"
+                    key ={index}>
                     <Card
-                    titulo="Carta ejemplo" 
-                    descripcion="Es un ejemplo"
-                    linkBoton="#"
-                    linkImg="..."/>
-                </div>
+                        titulo={pokemon.cardTitleText} 
+                        descripcion={pokemon.descriptionText}
+                        linkBoton={pokemon.linkButton}
+                        linkImg={pokemon.imageURL}/>
+                    </div>
+                ))}
             </div>
         </div>
     );
